@@ -24,3 +24,6 @@ limitation:
 => in our example return a new model after 3 seconds.
 => Like the basic Provider, FutureProvider does not listen for any changes within the model itself.
     (no effect on the UI).
+
+
+4. StreamProvider : ()
